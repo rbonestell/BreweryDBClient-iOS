@@ -5,7 +5,7 @@ A small Objective-C client for BreweryDB.com
 
 This is a pretty small implementation of the features available on the BreweryDB.com API, please feel free to contribute!
 
-## Example
+### Example
 
 ```Objective-C
 BreweryDBClient *client = [[BreweryDBClient alloc] initWithAPIKey:@"Your BreweryDB.com API Key Here"];
@@ -14,7 +14,7 @@ BreweryDBResponse *resp = [client sendRequest:req];
 int coloradoBreweriesFound = resp.locations.count;
 ```
 
-## Contributing
+### Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
