@@ -1,4 +1,4 @@
-# BreweryDBClient for iOS [![Build Status](https://travis-ci.org/rbonestell/BreweryDBClient-iOS.svg)](https://travis-ci.org/rbonestell/BreweryDBClient-iOS) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rbonestell/BreweryDBClient-iOS/master/LICENSE)
+BreweryDBClient for iOS [![Build Status](https://travis-ci.org/rbonestell/BreweryDBClient-iOS.svg)](https://travis-ci.org/rbonestell/BreweryDBClient-iOS) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rbonestell/BreweryDBClient-iOS/master/LICENSE)
 ==================
 
 A small Objective-C client for BreweryDB.com
